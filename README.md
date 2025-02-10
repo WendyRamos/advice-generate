@@ -1,6 +1,6 @@
-# Solución al Desafío de Frontend Mentor: Bento grid with tailwindcss
+# Solución al Desafío de Frontend Mentor: Advide Generator
 
-Esta es mi solución al desafío "Bento grid" de [Frontend Mentor](https://www.frontendmentor.io). El objetivo es replicar un diseño proporcionado y hacerlo accesible y funcional.
+Esta es mi solución al desafío "Advice Generator" de [Frontend Mentor](https://www.frontendmentor.io). El objetivo es replicar un diseño proporcionado y hacerlo accesible y funcional.
 
 ## Demo
 
