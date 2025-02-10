@@ -14,18 +14,20 @@ function CardAdvice() {
     return <div>Cargando datos...</div>;
   }
   return (
-    <div className="container-advice">
-      <h2 className="id-advice">ADVICE #{data.slip.id}</h2>
-      <h1 className="text-advice">"{data.slip.advice}"</h1>
+    <main className="container-advice">
+      <section>
+        <h2 className="id-advice">ADVICE #{data.slip.id}</h2>
+        <h1 className="text-advice">"{data.slip.advice}"</h1>
+      </section>
       <img
         src={PatterAdvice}
         alt="Pattern Divider"
         className="pattern-divider"
       />
       <button className="random-advice" onClick={handleClick}>
-        <img src={Dice} alt="Dice" />
+        <img src={Dice} alt="Icon dice" />
       </button>
-    </div>
+    </main>
   );
 }
 
