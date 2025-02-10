@@ -5,7 +5,7 @@ Esta es mi solución al desafío "Bento grid" de [Frontend Mentor](https://www.f
 ## Demo
 
 Puedes ver el proyecto en vivo aquí:  
-[**🔗 Ver Demo**] [Bento Grid]([https://wendyramos.github.io/bento-grid/](https://wendyramos.github.io/advice-generate/))
+[**🔗 Ver Demo**] [Advice Generator]((https://wendyramos.github.io/advice-generate/))
 
 ## Características
 - Diseño responsivo
